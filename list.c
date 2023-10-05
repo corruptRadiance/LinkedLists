@@ -6,11 +6,9 @@ Prints the contents of a list
 void PrintList(struct s_node* head){
     struct s_node* p_node = head;
 
-    int i = 1;
     while (p_node != NULL){
         printf("| %i | %p |\n", p_node->data, p_node);
         p_node = p_node->next;
-        i++;
     }
 }
 
