@@ -5,9 +5,10 @@
   - [x] Create a function to push a node onto the list
   - [x] Traverse the list in sequence to locate data
   - [x] Deallocate all memory in list
+  - [x] Pop function
   
-- [ ] Queue
-  - [ ] Create a function to traverse the list and place a node at the tail
+- [x] Queue
+  - [x] Create a function to traverse the list and place a node at the tail
 
 - [ ] Sort List
 - [ ] Binary Search List
