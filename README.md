@@ -9,6 +9,3 @@
   
 - [x] Queue
   - [x] Create a function to traverse the list and place a node at the tail
-
-- [ ] Sort List
-- [ ] Binary Search List
